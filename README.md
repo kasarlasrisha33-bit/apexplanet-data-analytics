@@ -1,12 +1,33 @@
-# Apexplanet Data Analytics Internship
+Sales Data Analysis Project
 
-## Task 1: Foundational Setup & EDA
+Overview
 
-### Dataset: Superstore Sales
-### Tools: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
+This project analyzes Superstore sales data to identify trends, profitability, and business insights.
 
-## Steps Completed:
-- Environment Setup
+Tools Used
+
+- Python
+- Pandas
+- NumPy
+- SQL
+- Power BI
+- Matplotlib
+
+Deliverables
+
 - Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualizations
+- SQL Analysis
+- Dashboard Creation
+- Statistical Analysis
+- Automation Script
+- KPI Report
+
+Outputs
+
+- cleaned_data.csv
+- kpi_report.xlsx
+- Final_Report.pdf
+
+Author
+
+Srisha
